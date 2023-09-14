@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home
-  <img src="readme-images/Homepagina-IKEA.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Homepagina-IKEA.png" width="375px" alt="Dit is de homepagina van IKEA op 4 september">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Productpagina 
-  <img src="readme-images/Productpagina-IKEA.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Productpagina-IKEA.png" width="375px" alt="Dit is een product pagina van IKEA op 4 september. Het product is UPPFYLLD, dit is een citruspers.">
  
 </details>
 
@@ -58,6 +58,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  - Wanneer je door de website tabt begint hij met de header. Dit is wel even door klikken tot je eindelijk bij de main content bent. Wat ook een nadeel is dat hij bij de zoekbalk alles meteen uitklapt waardoor je eerst een aantal voorgestelde zoekopdrachten moet door klikken tot je verder kan.
+
+  - Bij sommige afbeeldingen mist de alt tekst. bij de producten hebben ze wel goed de alt tekst in gevult maar bij voor hun wat minder belangrijke afbeeldingen mist deze tekst soms.
+
+  - Bij de meer lezen links wordt niet uitgelegd waar je meer over kan lezen. 
+
+  - De home pagina heeft geen H1, de zin die je zou verwachten als h1 is als h3 in de html in gezet. Het is wel een zin die niet echt uitlegd waar de pagina overgaat dus het is niet echt h1 materiaal. Hier moet een onzichtbare betere variant voor komen.
+
+  - In de website word op sommige plekken gebruik gemaakt van span ipv button. Het zijn dan elementen die eigenlijk een button hadden moeten zijn.
+
+  - De IKEA site heeft geen dark mode.
+
+
 </details>
 
 
@@ -68,7 +81,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Home indeling.png" width="375px" alt="breakdown van de hele homepagina een paar stukken zijn rood gekleurd, deze ga ik niet uitwerken.">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -94,20 +107,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Bregtje            | Fleur              | Kenza              | Stella             |
+  | ---                | ---                | ---                | ---                |
+  | html checken (div) | Javascript         |                    |  uploaden github   |   
+  | Hover werkt niet   |                    |                    |  html/css checken  |
+  | Webkit scrollbar   |                    |                    |  flexbox           |            
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - 
 
 </details>
 
@@ -127,11 +137,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Bregtje            | Fleur              | Kenza              | Ruud               | Stella             |
+  | ---                | ---                | ---                | ---                | ---                |
+  |                    |                    |                    |                    |                    |   
+  |                    |                    |                    |                    |                    |
+  |                    |                    |                    |                    |                    |  
 
 
   ### Verslag van meeting
