@@ -18,26 +18,28 @@
 
 <body>
 	<header>
-		<a> <img src="/images/ikea-logo.svg"> </a>
+		<h1><a> <img src="/images/ikea-logo.svg" alt="IKEA"> </a></h1>
 
 		<input type="text" placeholder="Waar ben je naar op zoek?">
 
-		<ul>
-			<li>
-				<a><i class="fa fa-user"></i></a>
-			</li>
-			<li>
-				<a><i class="fa fa-heart"></i></a>
-			</li>
+		<nav>
+			<ul>
+				<li>
+					<a href="/product.html"><i class="fa fa-user"></i></a>
+				</li>
+				<li>
+					<a href="/product.html"><i class="fa fa-heart"></i></a>
+				</li>
 
-			<li>
-				<a><i class="fa fa-shopping-cart"></i></a>
-			</li>
+				<li>
+					<a href="/product.html"><i class="fa fa-shopping-cart"></i></a>
+				</li>
 
-			<li>
-				<button><i class="fa fa-bars"></i></button>
-			</li>
-		</ul>
+				<li>
+					<button><i class="fa fa-bars"></i></button>
+				</li>
+			</ul>
+		</nav>
 	</header>
 	
 	<main>
@@ -64,9 +66,9 @@
 
 		<!-- Welkom -->
 		<section>
-			<h1>Hej! Welkom terug</h1>
+			<h2>Hej! Welkom terug</h2>
 			<p>
-				<a href="https://www.ikea.com/nl/nl/ikea-family/" target="_blank">Word lid van IKEA Family</a> om inspiratie op te doen, korting te krijgen en beloningen te ontvangen.
+				<a href="/product.html">Word lid van IKEA Family</a> om inspiratie op te doen, korting te krijgen en beloningen te ontvangen.
 			</p>
 		</section>
 
@@ -75,7 +77,7 @@
 			<h2>Onlangs bekeken producten</h2>
 			<div>
 				<article>
-					<a>
+					<a href="/product.html">
 						<img src="/images/onlangs-bekeken-1.avif">
 						<h3>Uppfylld</h3>
 						<p>Citruspers</p>
@@ -84,7 +86,7 @@
 				</article>
 
 				<article>
-					<a>
+					<a href="/product.html">
 						<img src="/images/onlangs-bekeken-2.avif">
 						<h3>Kallax</h3>
 						<p>Open kast</p>
@@ -93,7 +95,7 @@
 				</article>
 
 				<article>
-					<a>
+					<a href="/product.html">
 						<img src="/images/onlangs-bekeken-3.avif">
 						<h3>Norden</h3>
 						<p>Klaptafel</p>
@@ -102,7 +104,7 @@
 				</article>
 
 				<article>
-					<a>
+					<a href="/product.html">
 						<img src="/images/onlangs-bekeken-4.avif">
 						<h3>Utespelare</h3>
 						<p>Gamebureau</p>
@@ -111,7 +113,7 @@
 				</article>
 
 				<article>
-					<a>
+					<a href="/product.html">
 						<img src="/images/onlangs-bekeken-5.avif">
 						<h3>Ivar</h3>
 						<p>Klaptafel</p>
@@ -137,35 +139,74 @@
 				<li>
 					<img src="images/photo-with-dots-1.avif">
 					
-					<div> </div>
+					<button> </button>
 
 					<div>
 						<p>IKEA Family prijs</p>
 						<h3>Komplement</h3>
 						<p>Uitrekbare broekhanger</p>
 						<p>Normale prijs €30.-</p>
-						<p><span>€</span> 27.-</p>
+						<p>€ <span>27.-</span></p>
 						<i class="fa fa-angle-right"></i>
 					</div>
 
 				</li>
 
-				<!-- <li>
-					<img>
+				<li>
+					<img src="/images/photo-with-dots-2.avif">
 					
+					<button> </button>
 					<div>
-						<p> </p>
-						<p> </p>
-						<p> </p>
+						<h3>Kvarnvik</h3>
+						<p>Doos, set van 3</p>
+						<p>€ <span>19</span>.99</p>
 
-						<i> </i>
+						<i class="fa fa-angle-right"></i>
 					</div>
 
 					<button> </button>
-				</li> -->
+					<div>
+						<p>IKEA Family prijs</p>
+						<h3>Pax</h3>
+						<p>Hoeskledingkast</p>
+						<p>Normale prijs €764,-</p>
+						<p>€ <span>728</span>.60</p>
+
+						<i class="fa fa-angle-right"></i>
+					</div>
+
+					<button> </button>
+					<div>
+						<p>IKEA Family prijs</p>
+						<h3>Komplement</h3>
+						<p>Lade met omlijst front</p>
+						<p>Normale prijs € 30.-</p>
+						<p>€ <span>27.-</span></p>
+
+						<i class="fa fa-angle-right"></i>
+					</div>
+
+					<button> </button>
+					<div>
+						<h3>Kvarnvik</h3>
+						<p>Doos met deksel</p>
+						<p>€<span>14</span>.99</p>
+
+						<i class="fa fa-angle-right"></i>
+					</div>
+
+					<button> </button>
+					<div>
+						<h3>Bekväm</h3>
+						<p>Trapje, 3 tredes</p>
+						<p>€ <span>39</span>.99</p>
+
+						<i class="fa fa-angle-right"></i>
+					</div>
+				</li>
 			</ul>
 
-			<a href=""><p>Bekijk PAX kledingkasten</p></a> <i class="fa fa-angle-right"></i>
+			<a href="/product.html"><p>Bekijk PAX kledingkasten</p></a> <i class="fa fa-angle-right"></i>
 		</section>
 
 		<!-- nu bij IKEA -->
@@ -175,38 +216,38 @@
 			<div> 
 				<article>
 					<img src="/images/Nu-bij-IKEA-1.avif">
-					<a><h3>Gratis events t/m 17 september</h3></a>
+					<a href="/product.html"><h3>Gratis events t/m 17 september</h3></a>
 					<p>
 						Show (of ontdek) je opbergtalent tijdens onze gratis 
 						events en doe mee aan bijzondere activiteiten: strijd 
 						tegen bekende sporters, luister naar Willie Wartaal 
 						of bezoek workshops en demo's.
 					</p>
-					<a><i class="fa fa-arrow-right"></i></a>
+					<a href="/product.html"><i class="fa fa-arrow-right"></i></a>
 				</article>
 
 				<article>
 					<img src="/images/Nu-bij-IKEA-2.avif">
-					<a><h3>Laat je werkplek voor jou werken</h3></a>
+					<a href="/product.html"><h3>Laat je werkplek voor jou werken</h3></a>
 					<p>
 						Na een lekker lange zomer gaan we weer aan de slag. 
 						Fris je werkplek op met een sta/zit bureau, ergonomische 
 						stoel of een handige opberger; in een prettige ruimte 
 						werk je fijner.
 					</p>
-					<a><i class="fa fa-arrow-right"></i></a>
+					<a href="/product.html"><i class="fa fa-arrow-right"></i></a>
 				</article>
 
 				<article>
 					<img src="/images/Nu-bij-IKEA-3.avif">
-					<a><h3>Nieuwe verlaagde prijs</h3></a>
+					<a href="/product.html"><h3>Nieuwe verlaagde prijs</h3></a>
 					<p>
 						Als er één ding is dat we geleerd hebben over een goede 
 						prijs, dan is het wel dat het altijd een beetje lager 
 						kan. Daarom zijn er nu 400 producten een beetje goedkoper. 
 						Geldig t/m december 2023.
 					</p>
-					<a><i class="fa fa-arrow-right"></i></a>
+					<a href="/product.html"><i class="fa fa-arrow-right"></i></a>
 				</article>
 			</div>
 		</section>
@@ -218,28 +259,28 @@
 					<i class="fa fa-building"></i>
 					<h3>Bestellen & ophalen</h3>
 					<p>Bestel online en haal op in de winkel</p>
-					<a href="">Lees meer</a>
+					<a href="/product.html">Lees meer</a>
 				</li>
 
 				<li>
 					<i class="fa fa-truck"></i>
 					<h3>Bezorgservice</h3>
 					<p>We bezorgen je bestelling bij je thuis.</p>
-					<a href="">Lees meer</a>
+					<a href="/product.html">Lees meer</a>
 				</li>
 
 				<li>
 					<i class="fa fa-comment"></i>
 					<h3>Klantenservice</h3>
 					<p>Vind het antwoord op je vraag</p>
-					<a href="">Lees meer</a>
+					<a href="/product.html">Lees meer</a>
 				</li>
 
 				<li>
 					<i class="fa fa-comments"></i>
 					<h3>Persoonlijk advies</h3>
 					<p>Onze experts helpen je met jouw droominterieur of -meubel.</p>
-					<a href="">Lees meer</a>
+					<a href="/product.html">Lees meer</a>
 				</li>
 			</ul>
 		</section>
@@ -266,6 +307,14 @@
 
 				<li> 
 					<button>Werkplek</button>
+				</li>
+
+				<li> 
+					<button>Badkamer</button>
+				</li>
+
+				<li> 
+					<button>Eetkamer</button>
 				</li>
 			</ul>
 
