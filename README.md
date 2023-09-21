@@ -117,7 +117,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - 
+  Mijn punten:
+  - div van de punten op de foto's moet button worden. Hier moet je op kunnen klikken.
+  - logo in de H1 zetten, dan wordt de alt tekst voor gelezen.
+  - Alle links naar de andere pagina die ik maak
+  - Menu maken met de oefening
+  - in een keer alle foto's 100% width geven. 
+  - andere pagina een class geven voor specifieke aanpassingen
+  - van niets naar iets kan niet geanimeerd worden dus none naar blok kan niet maar opacity 0 naar 1 kan wel
+  - form om zoekveld heen en een button geven
+  - nav in header
 
 </details>
 
@@ -132,25 +141,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb deze week niet veel tijd gehad om verder te werken aan mijn code. ik heb een aantal van de feedback puntjes kunnen verwerken:
+  ik heb de hover puntjes in buttons veranderd zodat het ook een klikbare knop kan worden. Het logo is nu een h1 zodat dit het eerste kopje is dat de screenreader leest. ook heb ik nu de header onderaan de pagina gezet en met flex boven aan gezet. Zo hoeft iemand met een screenreader niet eerste alle links van het menu door te klikken voordat ze bij de main content zijn. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Bregtje            | Fleur              | Kenza              | Ruud               | Stella             |
-  | ---                | ---                | ---                | ---                | ---                |
-  |                    |                    |                    |                    |                    |   
-  |                    |                    |                    |                    |                    |
-  |                    |                    |                    |                    |                    |  
+  | Bregtje            | Fleur              | Kenza              | Stella             |
+  | ---                | ---                | ---                | ---                |
+  |                    | Hamburger menu     |                    |                    |   
+  |                    |                    |                    |                    |
+  |                    |                    |                    |                    | 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - 
 
 </details>
 
