@@ -148,7 +148,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Bregtje            | Fleur              | Kenza              | Stella             |
+  | Bregtje            | Fleur              | Kenza              | Sanne (deze week)  |
   | ---                | ---                | ---                | ---                |
   |                    | Hamburger menu     |                    |                    |   
   |                    |                    |                    |                    |
@@ -158,7 +158,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
+  Er zijn niet veel punten omdat een paar van ons deze week achterlopen.
+
+  - Houd je readme goed bij
   - 
+
 
 </details>
 
