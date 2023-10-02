@@ -196,11 +196,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Bregtje            | Fleur              | Kenza              | Sara (deze week)   |
+  | ---                | ---                | ---                | ---                |
+  | flex vs. grid      | Github             |                    | Form errors        |
+  | flex equal col     | HTML check         |                    | HTML check         |
+  | js fout            |                    |                    |                    |
+  | geen img op github |                    |                    |                    | 
+  | hoe lang alt tekst |                    |                    |                    | 
+  | voor screenreader? |                    |                    |                    | 
+  
 
 
   ### Verslag van meeting
