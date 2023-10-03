@@ -158,10 +158,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  Er zijn niet veel punten omdat een paar van ons deze week achterlopen.
-
-  - Houd je readme goed bij
-  - 
+  Er zijn niet veel punten omdat een paar van ons deze week achterlopen en er is niet heel veel uit dit voortgangs gesprek gekomen qua duidelijke aanpassingen in mijn website.
+  Ik heb ook geen aantekeningen gemaakt.
 
 
 </details>
@@ -178,6 +176,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  - mijn linken en buttons hebben nog niet allemaal geven 
+
 </details>
 
 
@@ -190,7 +190,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  ik had de afgelopen week wat moeite met het netjes krijgen van flexbox, ze bepalen zelf hoe breed ze worden naar aanleiding van de inhoud en ik wil ze allemaal even groot hebben binnen een section. 
+  Ook vind ik de had ik vaak wat moeite met js, dit was vaak door schoonheidsfoutjes of ergens overheen lezen. 
+  vorige week had ik niet echt vragen en daardoor ook niet echt dingen die ik duidelijk moest verbeteren. Ik ben de afgelopen week daardoor gewoon verder gaan werken met waar ik mee bezig was. 
 
 
   ### Agenda voor meeting
@@ -200,7 +202,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ---                | ---                | ---                | ---                |
   | flex vs. grid      | Github             |                    | Form errors        |
   | flex equal col     | HTML check         |                    | HTML check         |
-  | js fout            |                    |                    |                    |
   | geen img op github |                    |                    |                    | 
   | hoe lang alt tekst |                    |                    |                    | 
   | voor screenreader? |                    |                    |                    | 
@@ -210,10 +211,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - voor wanneer je gelijke kolommen wil kan ik beter grid gebruiken dan flex, dit zal ik dus op meerdere plekken in mijn code moeten aanpassen
+  - Ik kreeg de tip om voor de buttons aria labelled by te gebruiken zodat screenreaders dat lezen ipv dat wat er in staat (of niet). dit kan ik ook gebruiken voor de lees meer links
+  - ik kan ook gaan kijken naar de screenreader hidden utility class
+  - om te zorgen dat mijn afbeeldingen altijd te zien zijn kan ik een picture element gebruiken, hier kan je meerdere keren de zelfde afbeelding zetten met andere file type. zo kan de browser zelf bepalen of welke hij nodig heeft. 
+  - Alt tekst moet niet te lang zijn maar wel duidelijk. Details die niet belangrijk zijn kan je weglaten. Je kan ook bij sfeerbeelden de alt teksten weglaten. 
+
 
 </details>
 
@@ -255,8 +258,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
+  1. De opdrachten uit de les waren mijn grootste bron
+  2. 
   3. ...
 
 </details>
