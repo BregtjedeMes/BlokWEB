@@ -177,6 +177,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   - mijn linken en buttons hebben nog niet allemaal geven 
+  - er zijn nog geen alt teksten toegevoegd
+  - mijn pagina heeft weer horizontal scroll
+  - ik heb nog geen andere states dan hover
+  - ik heb nog geen dark mode
+  - ik heb geen high contrast mode
+  - mijn website kan niet schalen tot 200%
+  - 
 
 </details>
 
@@ -230,19 +237,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Het was leuk om animaties te denken en toe te voegen zodat de website wat minder plat en saai wordt. Het was wel even moeilijk met Javascript maar uit eindelijk is het gelukt en vind ik het leuk om te zien.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/animaties.png" width="375px" alt="animaties voor het liken en toevoegen aan winkelwagen">
+
+  Aan het begin van deze opdracht wilde ik deze hover elementjes goed verwerken op de website, dit bleek minder moeilijk te zijn dan verwacht maar wel even puzzelen met het positioneren van alle buttons. Ook ben ik blij dat het gelukt is om voor de screenreader een goede oplossing te verwerken voor deze hovers.
+
+  <img src="readme-images/hover.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Het is mijn niet meer gelukt om aandacht te besteden aan forms, ik had het wel bedacht om te gaan doen maar heb daarna mijn aandacht besteeds aan andere onderdelen van mijn website.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/search-field.png" width="375px" alt="zoekbalk in de header">
+
+  Ook was het werken met Javascript moeilijk omdat ik snel dingen over het hoofd zie en er nog niet soepel mee kan werken.
+
+  <img src="readme-images/animaties.png" width="375px" alt="animaties voor het liken en toevoegen aan winkelwagen">
 </details>
 
 
@@ -260,6 +275,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   1. De opdrachten uit de les waren mijn grootste bron
   2. 
-  3. ...
+  3. 
+
+  html
+  1.https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
+
+
+  css 
+  1. https://www.visionaustralia.org/business-consulting/digital-access/blog/how-to-make-read-more-links-accessible
+  2. https://css-tricks.com/dark-modes-with-css/
+  3. https://css-tricks.com/dark-modes-with-css/
+  4. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
+
+
+  js 
+  1. https://www.w3schools.com/jsref/jsref_parseint.asp
+  2. https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+  3. https://www.geeksforgeeks.org/how-to-check-the-given-element-has-the-specified-class-in-javascript/
+
 
 </details>
